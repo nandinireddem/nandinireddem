@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @nandinireddem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+☁️ Cloud & DevOps Engineer
 
-<!---
-nandinireddem/nandinireddem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focused on designing, automating, and managing scalable cloud infrastructure across AWS and Azure. Experienced with Infrastructure as Code, containerization, orchestration, CI/CD automation, cloud networking, and modern DevOps practices.
+
+🚀 AWS | Azure | Terraform | HCP Terraform
+🐳 Docker | Kubernetes | Git | GitHub
+⚙️ CI/CD | Automation | Infrastructure as Code
+🔒 Cloud Security | Monitoring | Networking
+
+Passionate about cloud-native technologies, automation, and building reliable, secure, and highly available solutions.
