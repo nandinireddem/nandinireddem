@@ -1,10 +1,35 @@
-☁️ Cloud & DevOps Engineer
+# Hi 👋, I'm Nandini Reddem
 
-Focused on designing, automating, and managing scalable cloud infrastructure across AWS and Azure. Experienced with Infrastructure as Code, containerization, orchestration, CI/CD automation, cloud networking, and modern DevOps practices.
+A passionate Cloud & DevOps enthusiast from Hyderabad 🚀
 
-🚀 AWS | Azure | Terraform | HCP Terraform
-🐳 Docker | Kubernetes | Git | GitHub
-⚙️ CI/CD | Automation | Infrastructure as Code
-🔒 Cloud Security | Monitoring | Networking
+I am a B.Tech graduate interested in Cloud Computing, DevOps, and automation technologies.
 
-Passionate about cloud-native technologies, automation, and building reliable, secure, and highly available solutions.
+## 🌐 Portfolio
+
+🔗 Live Website:
+https://nandinireddem.github.io/NandiniReddem-Portfolio/
+
+## 🤝 Connect with me
+
+💼 LinkedIn: Add your LinkedIn URL
+
+🐙 GitHub:
+https://github.com/nandinireddem
+
+## 🛠️ Languages and Tools
+
+☁️ AWS  
+🐧 Linux  
+🐳 Docker  
+☸️ Kubernetes  
+🔄 Jenkins  
+⚙️ Git & GitHub  
+🚀 GitHub Actions  
+🌐 HTML5  
+🎨 CSS3  
+📜 JavaScript  
+
+## 📜 Certifications
+
+🏅 AWS Certified Cloud Practitioner  
+🏅 Salesforce Certified AI Associate  
