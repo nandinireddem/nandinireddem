@@ -11,7 +11,7 @@ https://nandinireddem.github.io/NandiniReddem-Portfolio/
 
 ## 🤝 Connect with me
 
-💼 LinkedIn: Add your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/reddemnandini14/
 
 🐙 GitHub:
 https://github.com/nandinireddem
